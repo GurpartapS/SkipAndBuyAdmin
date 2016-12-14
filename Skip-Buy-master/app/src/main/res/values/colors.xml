@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff0b00</color>
+    <color name="colorPrimaryDark">#ff0b00</color>
+    <color name="colorAccent">#ff0b00</color>
+    <color name="errorTextField">#ffffff</color>
+    <color name="editTextField">#ffffff</color>
+
+
+</resources>
